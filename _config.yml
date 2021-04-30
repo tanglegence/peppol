@@ -3,7 +3,7 @@ title: PEPPOL
 email: peppol@tanglegence.com
 description: A pan-European framework for public procurement
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://peppol.tanglegence.com" # the base hostname & protocol for your site
+url: "https://peppol.global" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
