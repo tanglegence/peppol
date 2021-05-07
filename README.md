@@ -1,3 +1,3 @@
-# peppol.global
+# peppol.global.old
 
-All you need to know about [PEPPOL](https://peppol.global/).
+First iteration of my [PEPPOL](https://peppol.eu)-related project.
